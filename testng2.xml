@@ -12,6 +12,7 @@
             </class>
             <class name="qaclickacademy.AppiumTest" />
             <class name="qaclickacademy.SeleniumTest"/>
+            <class name="qaclickacademy.JenkinsTest"/>
         </classes>
     </test>
 
