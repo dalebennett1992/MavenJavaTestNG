@@ -30,7 +30,7 @@
         </profile>
 
         <profile>
-            <id>SmokeTest2</id>
+            <id>SmokeTest3</id>
             <build>
                 <pluginManagement>
                     <plugins>
